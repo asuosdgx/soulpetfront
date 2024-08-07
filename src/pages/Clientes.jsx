@@ -29,10 +29,10 @@ function Clientes() {
     carregarClientes();
   }, []);
 
-  return (
+  return (  //Button as a link tem aparencia de botao e funciona como link
     <main className="mt-4 container">
       <h1>Clientes</h1>
-      <Button as={Link} to="/clientes/novo">
+      <Button as={Link} to="/clientes/novo">  
         Adicionar Cliente
       </Button>
       <hr />

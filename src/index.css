@@ -1,7 +1,7 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 .header {
-    background-color: #3b2712;
+    background-color: #580d0d;
 }
 
 .header nav img {
@@ -10,7 +10,7 @@
 }
 
 .header nav a {
-    color: #a69e69;
+    color: #e9e8df;
     text-decoration: none;
 }
 
